@@ -1,0 +1,23 @@
+.react {
+  color: #61bee1;
+}
+.w-33 {
+  width: 28%;
+}
+.icon {
+  width: 50%;
+  height: auto;
+}
+.card {
+  background-color: #393e46;
+  border-radius: 12px;
+}
+.icon-jquery {
+  width: 80px !important;
+}
+.min-width {
+  min-height: 300px;
+  background-color: #393e46;
+  border-radius: 12px;
+  margin-top: 20px;
+}

@@ -1,0 +1,21 @@
+.top-border {
+  border-top: 1px solid #393e46;
+}
+i {
+  font-size: 25px;
+}
+.cursor {
+  cursor: pointer;
+}
+.card:hover .telegram {
+  color: #24a1de;
+}
+.card:hover .github {
+  color: #171515;
+}
+.card:hover .Email {
+  color: #8eca9e;
+}
+a {
+  text-decoration: none;
+}

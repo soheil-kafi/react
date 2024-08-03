@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css);
+
+.primary-color {
+  color: #222831;
+}
+.secondary-color {
+  color: #393e46;
+}
+.text-color {
+  color: #ffd369;
+}
+.light-color {
+  color: #eeeeee !important;
+}
+.bg-primary-color {
+  background-color: #222831;
+}
+.bg-secondary-color {
+  background-color: #393e46;
+}
+.bg-text-color {
+  background-color: #ffd369;
+}
+.bg-light-color {
+  background-color: #eeeeee;
+}
+.active button {
+  background-color: #ffd369;
+  color: #393e46;
+}
+a {
+  text-decoration: none;
+}
+.active button:hover button {
+  opacity: 0.9 !important;
+}
+td,
+tbody,
+tfoot,
+th,
+thead,
+tr {
+  text-align: center !important;
+}
+.trash {
+  cursor: pointer;
+}
+.trash:hover {
+  color: #393e46;
+}
